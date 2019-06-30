@@ -1,0 +1,191 @@
+**********************************************************
+ks_10000_0:
+
+Explored 1 nodes (2 simplex iterations) in 0.57 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 6: 1.09989e+06 1.09989e+06 1.09984e+06 ... 1.01257e+06
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.099893000000e+06, best bound 1.099893000000e+06, gap 0.0000%
+1099893.0 0
+
+*********************************************************
+ks_1000_0:
+
+Explored 1 nodes (2 simplex iterations) in 0.09 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 109899 109867 109798 100891 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.098990000000e+05, best bound 1.098990000000e+05, gap 0.0000%
+109899.0 0
+
+********************************************************
+ks_500_0:
+
+Explored 1 nodes (2 simplex iterations) in 0.07 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 54939 54716 49877 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 5.493900000000e+04, best bound 5.493900000000e+04, gap 0.0000%
+54939.0 0
+
+*******************************************************
+ks_400_0
+
+Explored 9102 nodes (12288 simplex iterations) in 0.77 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 3.96718e+06 3.96716e+06 3.96715e+06 ... 3.93658e+06
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 3.967180000000e+06, best bound 3.967180000000e+06, gap 0.0000%
+3967180.0 0
+
+*******************************************************
+ks_300_0:
+
+Explored 1175 nodes (1305 simplex iterations) in 2.00 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 1.68869e+06 1.68863e+06 1.68862e+06 ... 1.67759e+06
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.688692000000e+06, best bound 1.688692000000e+06, gap 0.0000%
+1688692.0 0
+
+*******************************************************
+ks_200_0:
+
+Explored 1 nodes (2 simplex iterations) in 0.10 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 100236 100062 90001 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.002360000000e+05, best bound 1.002360000000e+05, gap 0.0000%
+100236.0 0
+
+******************************************************
+ks_200_1:
+
+Explored 877 nodes (1222 simplex iterations) in 0.33 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 1.1036e+06 1.10348e+06 1.10301e+06 1.09372e+06 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.103604000000e+06, best bound 1.103604000000e+06, gap 0.0000%
+1103604.0 0
+
+*****************************************************
+ks_106_0:
+
+Explored 3809 nodes (6331 simplex iterations) in 0.37 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 1.06925e+08 1.06925e+08 1.06925e+08 ... 1.06815e+08
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.069252620000e+08, best bound 1.069252620000e+08, gap 0.0000%
+106925262.0 0
+
+*****************************************************
+ks_100_0:
+
+Explored 1 nodes (4 simplex iterations) in 0.09 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 99837 99798 90000 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 9.983700000000e+04, best bound 9.983700000000e+04, gap 0.0000%
+99837.0 0
+
+*****************************************************
+ks_100_1:
+
+Explored 78 nodes (127 simplex iterations) in 0.09 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 1.33393e+06 1.33389e+06 1.33378e+06 ... 1.3247e+06
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.333930000000e+06, best bound 1.333930000000e+06, gap 0.0000%
+1333930.0 0
+
+*****************************************************
+ks_100_2:
+
+Explored 1 nodes (3 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 10892 10846 10839 9869 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.089200000000e+04, best bound 1.089200000000e+04, gap 0.0000%
+10892.0 0
+
+*****************************************************
+ks_82_0:
+
+Explored 2238437 nodes (3566485 simplex iterations) in 19.36 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 1.04724e+08 1.04723e+08 1.04723e+08 ... 1.04723e+08
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.047235959948e+08, best bound 1.047235959948e+08, gap 0.0000%
+104723595.99476382 0
+
+*****************************************************
+ks_60_0:
+
+Explored 1 nodes (3 simplex iterations) in 0.04 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 99837 99798 90000 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 9.983700000000e+04, best bound 9.983700000000e+04, gap 0.0000%
+99837.0 0
+
+*****************************************************
+ks_50_0:
+
+Explored 1 nodes (4 simplex iterations) in 0.06 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 142156 141907 140034 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 1.421560000000e+05, best bound 1.421560000000e+05, gap 0.0000%
+142156.0 0
+
+****************************************************
+ks_50_1:
+
+Explored 1 nodes (3 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 5345 5335 4919 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 5.345000000000e+03, best bound 5.345000000000e+03, gap 0.0000%
+5345.0 0
+
+****************************************************
+ks_45_0:
+
+Explored 1 nodes (2 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 23974 22132 
+
+Optimal solution found (tolerance 0.00e+00)
+Best objective 2.397400000000e+04, best bound 2.397400000000e+04, gap 0.0000%
+23974.0 0

@@ -1,0 +1,232 @@
+Versión 1.0:
+******************************************************************
+fl_4000_1
+
+No inicia.
+
+******************************************************************
+fl_2000_2:
+
+Found heuristic solution: objective 1.144454e+08
+GurobiError: Out of memory
+
+******************************************************************
+fl_2000_3:
+
+Found heuristic solution: objective 6.479405e+08
+GurobiError: Out of memory
+
+******************************************************************
+fl_1000_3:
+
+Explored 1 nodes (20928 simplex iterations) in 907.68 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 1.50079e+07 1.50422e+07 2.70946e+08 
+
+Time limit reached
+Best objective 1.500793258909e+07, best bound 1.451459511798e+07, gap 3.2872%
+15007932.59 0
+
+****************************************************************
+fl_1000_2:
+
+Explored 159 nodes (10850 simplex iterations) in 991.37 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 8.88886e+06 8.9165e+06 9.71974e+06 ... 1.6151e+08
+
+Time limit reached
+Best objective 8.888863399810e+06, best bound 8.628176893769e+06, gap 2.9327%
+
+****************************************************************
+fl_500_7:
+
+Explored 1 nodes (14120 simplex iterations) in 901.37 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 2.74109e+07 2.74151e+07 3.37723e+08 
+
+Time limit reached
+Best objective 2.741092769163e+07, best bound 2.612026355770e+07, gap 4.7086%
+27410927.69 0
+
+***************************************************************
+fl_500_6:
+
+Explored 662 nodes (56121 simplex iterations) in 902.87 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 5.3162e+06 5.32884e+06 5.33373e+06 ... 5.66137e+07
+
+Time limit reached
+Best objective 5.316204242016e+06, best bound 4.816290526832e+06, gap 9.4036%
+5316204.24 0
+
+**********************************************************
+fl_200_3:
+
+Explored 0 nodes (20448 simplex iterations) in 0.91 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 3694.74 44863.5 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.694736974976e+03, best bound 3.694736974976e+03, gap 0.0000%
+3694.74 0
+
+*********************************************************
+fl_200_2:
+
+Explored 0 nodes (21343 simplex iterations) in 1.31 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 3964.14 46147.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.964140904733e+03, best bound 3.964140904733e+03, gap 0.0000%
+3964.14 0
+
+*********************************************************
+fl_200_1:
+
+Explored 0 nodes (17690 simplex iterations) in 0.89 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 3807.32 43852.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.807322699190e+03, best bound 3.807322699190e+03, gap 0.0000%
+3807.32 0
+
+********************************************************
+fl_100_14:
+
+Explored 1 nodes (14536 simplex iterations) in 8.41 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 5.30181e+06 5.30201e+06 5.3024e+06 ... 4.21155e+07
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.301812121028e+06, best bound 5.301365032652e+06, gap 0.0084%
+5301812.12 0
+
+*******************************************************
+f1_100_7:
+
+Explored 0 nodes (4481 simplex iterations) in 0.19 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 1965.55 13299.3 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.965554496988e+03, best bound 1.965554496988e+03, gap 0.0000%
+1965.55 0
+
+*****************************************************
+fl_100_1:
+
+Explored 26441 nodes (10326297 simplex iterations) in 8606.32 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 2.27241e+07 2.27241e+07 2.27241e+07 ... 2.27243e+07
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.272410775801e+07, best bound 2.272361937059e+07, gap 0.0021%
+22039680.34 0
+
+****************************************************
+fl_50_6:
+
+Explored 1 nodes (313 simplex iterations) in 0.21 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 3.73279e+06 1.98913e+07 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.732793433772e+06, best bound 3.732793433772e+06, gap 0.0000%
+3732793.43 0
+
+*************************************************
+fl_50_1:
+
+Explored 1 nodes (91 simplex iterations) in 0.11 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 2.826e+06 2.82752e+06 2.82796e+06 ... 8.10139e+06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.825999219091e+06, best bound 2.825999219091e+06, gap 0.0000%
+2825999.22 0
+
+************************************************
+fl_25_5:
+
+Explored 1 nodes (103 simplex iterations) in 0.05 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 1.44656e+06 1.45284e+06 1.47576e+06 6.23143e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.446560761315e+06, best bound 1.446560761315e+06, gap 0.0000%
+1446560.76 0
+
+************************************************
+fl_25_3:
+
+Explored 0 nodes (51 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 3.30853e+06 4.30656e+06 5.41662e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.308526933317e+06, best bound 3.308526933317e+06, gap 0.0000%
+3308526.93 0
+
+*************************************************
+fl_25_1:
+
+Explored 1 nodes (107 simplex iterations) in 0.08 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 3.40666e+06 3.40745e+06 8.77927e+06 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.406660763498e+06, best bound 3.406660763498e+06, gap 0.0000%
+3406660.76 0
+
+************************************************
+fl_16_2:
+
+Explored 1 nodes (183 simplex iterations) in 0.09 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 889538 891437 918086 ... 2.2418e+06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.895383776425e+05, best bound 8.895383776425e+05, gap 0.0000%
+889538.38 0
+
+************************************************
+fl_16_1:
+
+Explored 553 nodes (5481 simplex iterations) in 0.64 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 3.52368e+06 3.52368e+06 3.52372e+06 ... 6.6449e+06
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.523677869356e+06, best bound 3.523677869356e+06, gap 0.0000%
+2952782.07 0
+
+************************************************
+fl_3_1
+
+Explored 0 nodes (9 simplex iterations) in 0.04 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 2545.77 5453.8 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.545771137048e+03, best bound 2.545771137048e+03, gap 0.0000%
+2545.77 0

@@ -1,0 +1,382 @@
+***********************************************************************
+tsp_51_1:
+
+2-Aproximado:
+627.08 0
+
+2-OPT 2-Aproximado:
+462.88 0
+
+Christofides:
+480.82 0
+
+2-OPT Christofides:
+448.90 0
+
+Simulated Annealing:
+441.41 0
+
+Tabu Search:
+436.60 0
+
+*************************************************************************
+tsp_70_1:
+
+2-Aproximado:
+874.58 0
+
+2-OPT 2-Aproximado:
+701.71 0
+
+Christofides:
+780.04 0
+
+2-OPT Christofides:
+713.48 0
+
+Simulated Annealing:
+677.11 0
+
+Tabu Search:
+691.60 0
+
+***************************************************************************
+tsp_76_1:
+
+2-Aproximado:
+694.22 0
+
+2-OPT 2-Aproximado:
+578.46 0
+
+Christofides:
+607.97 0
+
+2-OPT Christofides:
+573.30 0
+
+Simulated Annealing:
+560.29 0
+
+Tabu Search:
+559.10 0
+
+*************************************************************************
+tsp_76_2:
+
+2-Aproximado:
+139777.08 0
+
+2-OPT 2-Aproximado:
+118108.32 0
+
+Christofides:
+120072.77 0
+
+2-OPT Christofides:
+111829.84 0
+
+Simulated Annealing:
+108469.98 0
+
+Tabu Search:
+110916.02 0
+
+**************************************************************************
+tsp_99_1:
+
+2-Aproximado:
+1699.57 0
+
+2-OPT 2-Aproximado:
+1306.61 0
+
+Christofides:
+1401.04 0
+
+2-OPT Christofides:
+1291.87 0
+
+Simulated Annealing:
+1290.07 0
+
+Tabu Search:
+1244.67 0
+
+******************************************************************************
+tsp_100_1:
+
+2-Aproximado:
+27527.19 0
+
+2-OPT 2-Aproximado:
+23165.24 0
+
+Christofides:
+23766.11 0
+
+2-OPT Christofides:
+22368.47 0
+
+Simulated Annealing:
+21431.01 0
+
+Tabu Search:
+22050.22 0
+
+*************************************************************************
+tsp_100_3:
+
+2-Aproximado:
+27640.70 0
+
+2-OPT 2-Aproximado:
+22122.37 0
+
+Christofides:
+23171.33 0
+
+2-OPT Christofides:
+21797.81 0
+
+Simulated Annealing:
+20952.11 0
+
+Tabu Search:
+21635.40 0
+
+**************************************************************************
+tsp_100_5:
+
+2-Aproximado:
+30094.67 0
+
+2-OPT 2-Aproximado:
+22971.92 0
+
+Christofides:
+24935.59 0
+
+2-OPT Christofides:
+23382.68 0
+
+Simulated Annealing:
+22439.29 0
+
+Tabu Search:
+22582.82 0
+
+**********************************************************************************
+tsp_127_1:
+
+2-Aproximado:
+157244.31 0
+
+2-OPT 2-Aproximado:
+130172.01 0
+
+Christofides:
+128615.07 0
+
+2-OPT Christofides:
+124189.74 0
+
+Simulated Annealing:
+118676.99 0
+
+Tabu Search:
+123988.97 0
+
+
+******************************************************************************
+tsp_159_1:
+
+2-Aproximado:
+55118.91 0
+
+2-OPT 2-Aproximado:
+45253.36 0
+
+Christofides:
+47667.01 0
+
+2-OPT Christofides:
+43682.12 0
+
+Simulated Annealing:
+42805.20 0
+
+Tabu Search:
+43540.70 0
+
+****************************************************************************
+tsp_225_1:
+
+2-Aproximado:
+178426.83 0
+
+2-OPT 2-Aproximado:
+134275.90 0
+
+Christofides:
+135476.19 0
+
+2-OPT Christofides:
+129379.41 0
+
+Simulated Annealing:
+133297.98 0
+
+Tabu Search:
+127779.00 0
+
+********************************************************************************
+tsp_318_1:
+
+2-Aproximado:
+58291.86 0
+
+2-OPT 2-Aproximado:
+45378.37 0
+
+Christofides:
+48426.29 0
+
+2-OPT Christofides:
+44395.04 0
+
+Simulated Annealing:
+43272.32 0
+
+Tabu Search:
+44374.29 0
+
+*******************************************************************************
+tsp_400_1:
+
+2-Aproximado:
+20222.33 0
+
+2-OPT 2-Aproximado:
+16330.51 0
+
+Christofides:
+17339.92 0
+
+2-OPT Christofides:
+16069.27 0
+
+Simulated Annealing:
+15730.49 0
+
+Tabu Search:
+16077.59 0
+
+****************************************************************************
+tsp_493_1:
+
+2-Aproximado:
+45806.51 0
+
+OPT-2 2-Aproximado:
+37701.39 0
+
+Christofides:
+38542.40 0
+
+OPT-2 Christofides:
+36547.54 0
+
+Simulated Annealing:
+36230.22 0
+
+Tabu Search:
+36108.97 0
+
+******************************************************************************
+tsp_575_1:
+
+2-Aproximado:
+9351.37 0
+
+OPT-2 2-Aproximado:
+7364.98 0
+
+Christofides:
+7756.38 0
+
+OPT-2 Christofides:
+7156.73 0
+
+Simulated Annealing:
+7249.32 0
+
+Tabu Search:
+7136.01 0
+
+******************************************************************************
+tsp_657_1:
+
+2-Aproximado:
+66504.80 0
+
+OPT-2 2-Aproximado:
+54458.20 0
+
+Christofides:
+54510.73 0
+
+OPT-2 Christofides:
+51174.32 0
+
+Simulated Annealing:
+51012.61 0
+
+Tabu Search:
+50682.51 0
+
+*********************************************************************************
+tsp_724_1:
+
+2-Aproximado:
+58149.63 0
+
+OPT-2 2-Aproximado:
+46510.03 0
+
+Christofides:
+47250.51 0
+
+OPT-2 Christofides:
+44253.39 0
+
+Simulated Annealing:
+44327.36 0
+
+Tabu Search:
+43343.46 0
+
+*********************************************************************************
+tsp_1000_1:
+
+2-Aproximado:
+25164330.80 0
+
+OPT-2 2-Aproximado:
+20341189.23 0
+
+Christofides:
+20849701.60 0
+
+OPT-2 Christofides:
+19590016.97 0
+
+Simulated Annealing:
+19442639.30 0
+
+Tabu Search:
+19507575.27 0
+
+
+
+

@@ -1,0 +1,151 @@
+******************************************************************************
+gc_20_1:
+
+Explored 1 nodes (55 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 11 12 173 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.100000000000e+01, best bound 1.100000000000e+01, gap 0.0000%
+3 0
+0 2 0 0 0 0 1 1 0 1 0 2 0 1 1 0 1 1 0 0
+
+*******************************************************************************
+gc_20_3:
+
+Cutting planes:
+  Gomory: 1
+  Zero half: 10
+
+Explored 1 nodes (179 simplex iterations) in 0.08 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 20 24 27 186 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.000000000000e+01, best bound 2.000000000000e+01, gap 0.0000%
+5 0
+0 0 1 2 1 0 2 1 0 2 3 4 0 1 0 0 0 0 2 1
+
+*******************************************************************************
+gc_20_5:
+
+Cutting planes:
+  Gomory: 2
+  MIR: 2
+  Zero half: 27
+
+Explored 1 nodes (1577 simplex iterations) in 2.00 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 36 37 41 ... 203
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.600000000000e+01, best bound 3.600000000000e+01, gap 0.0000%
+5 0
+2 3 0 3 1 2 4 3 1 0 1 0 0 1 3 2 4 4 2 0
+
+*******************************************************************************
+gc_20_7:
+
+Cutting planes:
+  Gomory: 1
+  MIR: 12
+  Zero half: 19
+
+Explored 1 nodes (3900 simplex iterations) in 6.38 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 53 54 55 ... 165
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.300000000000e+01, best bound 5.300000000000e+01, gap 0.0000%
+8 0
+1 7 3 3 2 2 1 0 1 2 4 3 4 6 0 5 0 4 5 0
+
+*******************************************************************************
+gc_20_9:
+
+Cutting planes:
+  Gomory: 1
+  MIR: 4
+  Zero half: 4
+
+Explored 1 nodes (9945 simplex iterations) in 79.26 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 83 84 89 180 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.300000000000e+01, best bound 8.300000000000e+01, gap 0.0000%
+11 0
+5 7 9 10 5 2 3 0 2 3 4 8 1 6 0 1 0 7 4 6
+
+********************************************************************************
+gc_50_1:
+
+Cutting planes:
+  Gomory: 6
+  Cover: 1
+  Zero half: 41
+
+Explored 1890 nodes (46682 simplex iterations) in 1.61 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 48 49 50 ... 1241
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.800000000000e+01, best bound 4.800000000000e+01, gap 0.0000%
+4 0
+0 0 0 0 1 2 0 1 3 1 1 2 1 0 1 2 2 0 0 1 1 1 1 2 0 1 0 1 0 1 3 1 2 1 0 0 0 2 2 1 0 0 2 2 1 0 0 2 0 3
+
+*********************************************************************************
+gc_50_3:
+
+Cutting planes:
+  Gomory: 2
+  MIR: 22
+  StrongCG: 2
+  Flow cover: 22
+  Zero half: 47
+
+Explored 16665 nodes (1712596 simplex iterations) in 90.50 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 97 98 100 ... 126
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.700000000000e+01, best bound 9.700000000000e+01, gap 0.0000%
+7 0
+0 4 1 3 4 2 6 5 2 0 2 1 2 1 3 2 3 1 0 4 0 0 2 2 2 1 2 1 3 0 0 3 4 4 0 2 0 4 1 1 1 0 5 1 3 5 0 3 0 1
+
+**********************************************************************************
+gc_50_5:
+
+Cutting planes:
+  MIR: 6
+  StrongCG: 1
+  Flow cover: 7
+  Zero half: 37
+  Mod-K: 2
+
+Explored 1473 nodes (127056 simplex iterations) in 480.48 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 179 197 210 ... 1228
+
+Time limit reached
+Best objective 1.790000000000e+02, best bound 1.230000000000e+02, gap 31.2849%
+11 0
+5 5 5 6 1 3 8 4 1 2 2 4 7 1 1 1 5 7 6 0 0 0 2 4 2 5 0 6 10 3 2 2 2 0 1 5 0 7 7 0 4 9 3 6 1 8 4 6 3 3
+
+******************************************************************************
+gc_50_7:
+
+Me bloquea la máquina.
+
+******************************************************************************
+gc_50_9:
+
+Bloquea la máquina. No sigo más.

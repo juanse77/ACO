@@ -1,0 +1,197 @@
+Versión 1.0:
+
+******************************************************************
+gc_100_1:
+
+Explored 2553864 nodes (401269806 simplex iterations) in 14639.40 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 140 141 142 ... 158
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+02, best bound 1.400000000000e+02, gap 0.0000%
+5 0
+2 1 2 2 4 0 0 1 0 1 1 3 2 3 4 2 0 0 2 1 0 3 1 0 2 1 4 3 0 3 1 1 2 1 0 1 0 0 1 0 2 4 1 1 2 1 2 2 0 4 0 2 0 1 3 1 1 0 0 0 2 1 4 0 3 0 2 1 1 2 1 0 0 0 3 1 3 2 3 0 0 1 2 4 2 0 1 1 3 1 2 0 3 0 3 3 2 0 0 1
+
+*****************************************************************
+gc_100_3:
+
+Explored 5688 nodes (3745043 simplex iterations) in 900.06 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 420 426 461 ... 4999
+
+Time limit reached
+Best objective 4.200000000000e+02, best bound 2.130000000000e+02, gap 49.2857%
+12 0
+2 4 6 10 2 6 3 8 1 4 6 6 0 1 0 3 1 5 1 9 5 9 6 8 7 7 3 3 6 0 3 4 7 3 7 1 7 2 2 2 9 0 4 5 5 1 6 2 9 0 0 2 2 5 7 10 5 2 11 8 7 1 0 9 4 0 3 8 5 1 2 2 5 6 6 3 3 8 7 7 2 4 1 0 6 1 1 0 2 8 8 5 4 10 0 0 4 3 4 7
+
+****************************************************************
+gc_70_1:
+
+Explored 3552 nodes (183759 simplex iterations) in 7.50 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 6: 75 77 81 ... 2372
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.500000000000e+01, best bound 7.500000000000e+01, gap 0.0000%
+5 0
+4 1 3 0 3 1 2 2 1 2 2 1 2 0 2 1 0 1 0 3 1 2 0 2 1 1 0 3 1 0 1 0 1 0 0 0 3 0 1 0 0 3 1 0 0 0 2 0 2 1 2 1 2 1 1 1 3 1 0 1 0 0 0 2 0 0 2 0 1 0
+
+****************************************************************
+gc_70_5:
+
+Explored 20801 nodes (5964761 simplex iterations) in 900.19 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 345 348 349 ... 418
+
+Time limit reached
+Best objective 3.450000000000e+02, best bound 2.300000000000e+02, gap 33.3333%
+13 0
+2 1 8 4 1 3 2 3 3 4 3 1 0 4 5 4 4 5 0 1 2 2 2 3 1 6 2 5 7 0 1 7 0 5 8 2 7 11 8 7 0 7 5 5 3 6 11 11 0 6 9 9 10 8 5 10 0 6 6 12 8 9 1 0 11 10 12 2 9 10
+
+****************************************************************
+gc_70_9:
+
+Explored 4610 nodes (2162241 simplex iterations) in 900.05 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 823 828 830 ... 990
+
+Time limit reached
+Best objective 8.230000000000e+02, best bound 6.750000000000e+02, gap 17.9830%
+30 0
+11 6 4 5 17 11 10 27 2 0 12 4 10 19 22 8 20 8 16 25 28 4 2 10 14 13 1 23 14 25 22 29 0 13 16 1 9 7 12 24 6 7 3 21 0 5 1 15 5 24 9 2 21 3 15 11 7 3 20 26 0 12 13 9 6 14 18 8 18 17
+
+****************************************************************
+gc_50_1:
+
+Explored 419 nodes (14704 simplex iterations) in 1.40 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 48 49 50 ... 1269
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.800000000000e+01, best bound 4.800000000000e+01, gap 0.0000%
+4 0
+0 0 0 0 1 2 0 1 3 1 1 2 1 0 1 2 2 0 0 1 1 1 1 2 0 1 0 1 0 1 3 1 2 1 0 0 0 2 2 1 0 0 2 2 1 0 0 2 0 3
+
+***************************************************************
+gc_50_3:
+
+Explored 10705 nodes (1017763 simplex iterations) in 40.41 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 97 98 99 ... 136
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.700000000000e+01, best bound 9.700000000000e+01, gap 0.0000%
+7 0
+0 4 1 3 4 2 5 5 2 0 2 1 2 1 3 2 3 1 0 4 0 0 2 2 2 1 2 1 3 0 0 3 4 4 0 2 0 4 1 1 1 0 5 1 3 6 0 3 0 1
+
+***************************************************************
+gc_50_5:
+
+Explored 21395 nodes (4373333 simplex iterations) in 900.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 169 170 171 ... 190
+
+Time limit reached
+Best objective 1.690000000000e+02, best bound 1.450000000000e+02, gap 14.2012%
+10 0
+8 3 8 7 6 5 5 0 6 4 0 0 1 6 2 0 3 0 2 4 9 1 3 0 0 2 1 4 4 4 3 3 0 1 6 1 7 2 2 7 1 3 5 7 6 1 2 4 5 5
+
+***************************************************************
+gc_50_7:
+
+Explored 21237 nodes (3993614 simplex iterations) in 900.13 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 278 279 280 ... 297
+
+Time limit reached
+Best objective 2.780000000000e+02, best bound 2.330000000000e+02, gap 16.1871%
+15 0
+8 1 1 4 10 11 7 1 2 14 2 11 6 4 4 2 4 3 3 5 5 13 10 6 3 7 9 6 8 2 9 10 1 9 0 12 13 3 5 1 9 0 0 7 5 0 2 0 12 8
+
+***************************************************************
+gc_50_9:
+
+Explored 2983 nodes (1148737 simplex iterations) in 370.16 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 449 450 454 ... 578
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.490000000000e+02, best bound 4.490000000000e+02, gap 0.0000%
+22 0
+2 9 3 21 4 2 3 5 3 20 18 5 4 1 7 12 15 7 9 1 10 16 14 13 5 1 15 17 11 4 18 19 6 0 10 12 8 0 6 17 19 6 11 2 8 16 14 7 13 0
+
+***************************************************************
+gc_20_1:
+
+Explored 1 nodes (55 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 11 12 173 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.100000000000e+01, best bound 1.100000000000e+01, gap 0.0000%
+3 0
+0 2 0 0 0 0 1 1 0 1 0 2 0 1 1 0 1 1 0 0
+
+***************************************************************
+gc_20_3:
+
+Explored 1 nodes (271 simplex iterations) in 0.08 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 20 22 25 191 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.000000000000e+01, best bound 2.000000000000e+01, gap 0.0000%
+5 0
+0 0 1 2 1 0 2 1 0 2 3 4 0 1 0 0 0 0 2 1
+
+***************************************************************
+gc_20_5:
+
+Explored 1 nodes (554 simplex iterations) in 0.12 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 36 46 53 190 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.600000000000e+01, best bound 3.600000000000e+01, gap 0.0000%
+5 0
+3 1 0 1 2 3 4 1 2 0 2 0 0 2 1 3 4 4 3 0
+
+***************************************************************
+gc_20_7:
+
+Explored 82 nodes (2433 simplex iterations) in 0.30 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 53 58 189 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.300000000000e+01, best bound 5.300000000000e+01, gap 0.0000%
+8 0
+4 5 3 3 2 2 4 0 5 2 1 3 1 7 0 4 0 1 6 0
+
+***************************************************************
+gc_20_9:
+
+Explored 1 nodes (2016 simplex iterations) in 0.33 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 6: 83 85 86 ... 176
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.300000000000e+01, best bound 8.300000000000e+01, gap 0.0000%
+11 0
+3 7 8 10 3 6 5 0 6 5 1 9 4 2 0 4 0 7 1 2
+
